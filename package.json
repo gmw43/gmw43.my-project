@@ -1,7 +1,7 @@
 {
   "homepage": "https://github.com/gmw43/my-project",
   "name": "my-project",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
